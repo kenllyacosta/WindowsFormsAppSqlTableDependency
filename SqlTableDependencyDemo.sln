@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppSqlTableDependency", "WindowsFormsAppSqlTableDependency\WindowsFormsAppSqlTableDependency.csproj", "{107E7277-8996-43C9-AEA6-8779E8916947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{30492855-7247-4AE9-A82F-286941D81897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107E7277-8996-43C9-AEA6-8779E8916947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107E7277-8996-43C9-AEA6-8779E8916947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107E7277-8996-43C9-AEA6-8779E8916947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107E7277-8996-43C9-AEA6-8779E8916947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30492855-7247-4AE9-A82F-286941D81897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30492855-7247-4AE9-A82F-286941D81897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30492855-7247-4AE9-A82F-286941D81897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30492855-7247-4AE9-A82F-286941D81897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DAB8A2A-FAAB-4B81-A87A-941F406C7C0A}
+	EndGlobalSection
+EndGlobal
